@@ -1,0 +1,819 @@
+{
+  "ebooks": [
+    {
+      "title": "Electron Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/electron-succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/electron-succinctly.png"
+    },
+    {
+      "title": "ASP.NET Core 2 Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/aspnet-core-2-succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/aspnet-core-2-succinctly.png"
+    },
+    {
+      "title": "Kubernetes Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/kubernetes-succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/kubernetes-succinctly.png"
+    },
+    {
+      "title": "Angular Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/angular-succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/angular-succinctly.png"
+    },
+    {
+      "title": "Visual Studio for Mac Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/visual-studio-for-mac-succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/visual-studio-for-mac-succinctly.png"
+    },
+    {
+      "title": "Natural Language Processing Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/natural_language_processing_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/natural-language-processing-succinctly.png"
+    },
+    {
+      "title": "Xamarin.Forms Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/xamarin-forms-succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Xamarin-Forms-Succinctly-update-1.png"
+    },
+    {
+      "title": "Azure Functions Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/azure-functions-succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/azure-functions-succinctly.png"
+    },
+    {
+      "title": "Keras Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/keras-succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/keras_succinctly.png"
+    },
+    {
+      "title": "Twitter Bootstrap 4 Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/twitterbootstrap4-succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/twitterbootstrap4-succinctly.png"
+    },
+    {
+      "title": "Rider Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/rider-succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/rider-succinctly.png"
+    },
+    {
+      "title": "Google Maps API Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/google_maps_api_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/google-maps-api-succinctly.png"
+    },
+    {
+      "title": "Writing Native Mobile Apps in a Functional Language Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/writing_native_mobile_apps_in_a_functional_language_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/writing-native-mobile-apps-in-a-functional-language-succinctly.png"
+    },
+    {
+      "title": "Public Speaking for Geeks Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/public_speaking_for_geeks_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/public-speaking-for-geeks-succinctly.png"
+    },
+    {
+      "title": "W3.CSS Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/w3_css_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/w3-css-succinctly.png"
+    },
+    {
+      "title": "MonoGame Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/monogame_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/monogame-succinctly.png"
+    },
+    {
+      "title": "HoloLens Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/hololens_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/hololens-succinctly.jpg"
+    },
+    {
+      "title": "Ionic Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/ionic_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/ionic-succinctly.png"
+    },
+    {
+      "title": "Introduction to CNTK Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/cntk_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/cntk-succinctly.png"
+    },
+    {
+      "title": "Akka.NET Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/akka_net_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/akka-net-succinctly.png"
+    },
+    {
+      "title": "Xamarin.Forms for macOS Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/xamarin_forms_for_mac_os_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/xamarin-forms-for-macos.png"
+    },
+    {
+      "title": "The Kademlia Protocol Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/kademlia_protocol_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/kademlia-protocol-succinctly.jpg"
+    },
+    {
+      "title": "Application Insights Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/application_insights_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/application-insights-succinctly.jpg"
+    },
+    {
+      "title": "Skype Bots Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/skype_bots_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Skype-Bots-Succinctly-update-1.png"
+    },
+    {
+      "title": "Entity Framework Core Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/entity_frame_work_core_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Entity-Framework-Core-Succinctly-update-1.png"
+    },
+    {
+      "title": "Docker Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/docker_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Docker-Succinctly-update-1.png"
+    },
+    {
+      "title": "Gradle Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/gradle_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Gradle-Succinctly-update-1.png"
+    },
+    {
+      "title": "Force.com Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/forcedotcomsuccinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Force-Com-Succinctly-update-1.png"
+    },
+    {
+      "title": "Cryptography in .NET Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/cryptography_in_net_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Cryptography-in-.NET-Succinctly-update-1.png"
+    },
+    {
+      "title": "Power BI Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/power_bi_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Power-BI-Succinctly-update-1.png"
+    },
+    {
+      "title": "Implementing a Custom Language Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/implementing-a-custom-language",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Implementing-A-Custom-Language-Succinctly-update-1.png"
+    },
+    {
+      "title": "Support Vector Machines Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/support_vector_machines_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Support-Vector-Machines-Succinctly-update-1.png"
+    },
+    {
+      "title": "Scala Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/scala_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Scala-Succinctly-update-1.png"
+    },
+    {
+      "title": "Application Security in .NET Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/application_security_in_net_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Application-Security-In-Net-Succinctly-update-2.png"
+    },
+    {
+      "title": "ASP.NET WebHooks Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/aspnet_webhooks_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/ASP-NET-Webhooks-Succinctly-updated-1.png"
+    },
+    {
+      "title": "Asynchronous Programming Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/asynchronous_programming_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Asynchronous-Programming-Succinctly-update-1.png"
+    },
+    {
+      "title": "Java Succinctly Part 2",
+      "url": "https://www.syncfusion.com/ebooks/java_succinctly_part_2",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Java-Part-2-Succinctly-update-1.png"
+    },
+    {
+      "title": "Java Succinctly Part 1",
+      "url": "https://www.syncfusion.com/ebooks/java_succinctly_part_1",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Java-Succinctly-Part-1.jpg"
+    },
+    {
+      "title": "PHP Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/php_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Php-Succinctly.jpg"
+    },
+    {
+      "title": "Bing Maps V8 Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/bing_maps_v8_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Bing-Maps-V8-Succinctly.jpg"
+    },
+    {
+      "title": "WPF Debugging and Performance Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/wpf_debugging_and_performance",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/WPF-Debugging-and-Performance-updated-1.png"
+    },
+    {
+      "title": "Go Web Development Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/go_web_development",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Go-Web-Development.jpg"
+    },
+    {
+      "title": "Go Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/go_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Go-Succinctly.jpg"
+    },
+    {
+      "title": "More UWP Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/more_uwp_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/More-uwp-succinctly.jpg"
+    },
+    {
+      "title": "UWP Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/uwp_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/UWP-Succinctly-updated.png"
+    },
+    {
+      "title": "LINQPad Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/linqpad_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/LINQPad-Succinclty.jpg"
+    },
+    {
+      "title": "MongoDB 3 Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/mongodb_3_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/MongoDB-3-Succinctly.jpg"
+    },
+    {
+      "title": "R Programming Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/r-programming_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/R-Programming-Succinctly.jpg"
+    },
+    {
+      "title": "Azure Cosmos DB and DocumentDB Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/azure_cosmos_db_and_documentdb_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Azure-Cosmos-DB-and-DocumentDB-Succinctly.jpg"
+    },
+    {
+      "title": "Unity Game Development Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/unity_game_development_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Unity-Development-Succinctly.jpg"
+    },
+    {
+      "title": "Aurelia Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/aurelia_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Aurelia-Succinctly-updated-1.png"
+    },
+    {
+      "title": "Microsoft Bot Framework Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/microsoft_bot_framework_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Microsoft-Bot-Framework-Succinctly.jpg"
+    },
+    {
+      "title": "ASP.NET Core Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/asp_net_core_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/ASP-NET-Core-Succinctly-updated-1.png"
+    },
+    {
+      "title": "Twilio with C# Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/twilio_with_c_sharp_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Twilio-with-C-sharp-Succinctly.jpg"
+    },
+    {
+      "title": "Angular 2 Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/angular2_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Angular-2-Succinctly-updated-1.png"
+    },
+    {
+      "title": "Visual Studio 2017 Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/vs2017_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/VS2017-Succinctly.jpg"
+    },
+    {
+      "title": "Camtasia Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/camtasia_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Camtasia-Succinctly.jpg"
+    },
+    {
+      "title": "SQL Queries Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/sql_queries_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/SQL-Queries-Succinctly.jpg"
+    },
+    {
+      "title": "Keystone.js Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/keystonejs_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Keystonejs-Succinctly.jpg"
+    },
+    {
+      "title": "Groovy Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/groovy_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Groovy-Succinctly.jpg"
+    },
+    {
+      "title": "SQL Server for C# Developers Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/sql_server_for_c_sharp_developers_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Sql-Server-For-C-Sharp-Developers-Succinctly.jpg"
+    },
+    {
+      "title": "Ubuntu Server Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/ubuntu_server_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Ubuntu-Server-Succinctly.jpg"
+    },
+    {
+      "title": "Statistics Fundamentals Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/statistics-fundamentals-succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Statistics-Fundamentals-Succinctly.jpg"
+    },
+    {
+      "title": ".NET Core Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/net_core_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/NET-Core-Succinctly.jpg"
+    },
+    {
+      "title": "SOLID Principles Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/solidprinciplessuccinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Solid-Principles-Succinctly.jpg"
+    },
+    {
+      "title": "Node.js Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/nodejs",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/NodeJs-Succinctly.jpg"
+    },
+    {
+      "title": "Customer Success for C# Developers Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/customer_success_for_c_sharp_developers",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Customer-Success-Succicntly.jpg"
+    },
+    {
+      "title": "Data Capture and Extraction with C# Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/data_capture_and_extraction_with_c_sharp_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Data-Capture-And-Extraction-Succinctly.jpg"
+    },
+    {
+      "title": "Hadoop Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/hadoopsuccinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Hadoop-Succinctly.jpg"
+    },
+    {
+      "title": "SciPy Programming Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/scipy_programming_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/SciPy-Programming-Succinctly.jpg"
+    },
+    {
+      "title": "Hive Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/hive-succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Hive-Succinctly.jpg"
+    },
+    {
+      "title": "React.js Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/reactjs_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Reactjs-Succinctly-updated.png"
+    },
+    {
+      "title": "ECMAScript 6 Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/ecmascript_6_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/ECMAScript-Succinctly.jpg"
+    },
+    {
+      "title": "GitHub Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/github_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/GitHub-Succinctly.jpg"
+    },
+    {
+      "title": "Gulp Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/gulp_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Gulp-Succinctly.jpg"
+    },
+    {
+      "title": "AutoCAD Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/autocad_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/AutoCAD-Succinctly.jpg"
+    },
+    {
+      "title": "Visual Studio Code Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/visual_studio_code_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Visual-Studio-Code-Succinctly.jpg"
+    },
+    {
+      "title": "Object-Oriented Programming in C# Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/oop-csharp",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Oop-Succinctly.jpg"
+    },
+    {
+      "title": "C# Code Contracts Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/csharpcontracts",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/C-sharp-Contracts-Succinctly.jpg"
+    },
+    {
+      "title": "Leaflet.js Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/leafletjs",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Leafletjs-Succinctly.jpg"
+    },
+    {
+      "title": "Delphi Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/delphi",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Delphi-Ebook-Succinctly.jpg"
+    },
+    {
+      "title": "Roslyn Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/roslyn",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Roslyn-Succinctly.jpg"
+    },
+    {
+      "title": "HBase Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/hbase",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Hbase-Succinctly.jpg"
+    },
+    {
+      "title": "Python Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/python",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Python-Succinctly.jpg"
+    },
+    {
+      "title": "NancyFX Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/nancyfx",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Nancyfx-Succinctly.jpg"
+    },
+    {
+      "title": "SQL on Azure Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/sqlazure",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Sql-Azure-Succinctly.jpg"
+    },
+    {
+      "title": "Web Servers Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/webservers",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Web-Servers-Succinctly.jpg"
+    },
+    {
+      "title": "Spark Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/spark",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Spark-Succinctly.jpg"
+    },
+    {
+      "title": "T4 Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/t4succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/TFour-Succinctly.jpg"
+    },
+    {
+      "title": "ASP.NET Multitenant Applications Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/aspnet_multitenant_applications_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Asp-net-Multitenant-Succinctly.jpg"
+    },
+    {
+      "title": "FakeItEasy Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/fakeiteasy",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Fakeiteasy-Succinctly.jpg"
+    },
+    {
+      "title": "Arduino Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/arduino",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Arduino-Succinctly.jpg"
+    },
+    {
+      "title": "Developing Windows Services Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/windowsservices",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Developing-Windowsservice-Succinctly.jpg"
+    },
+    {
+      "title": "Visual Studio 2015 Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/visualstudio2015",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Visual-Studio-2015-Succinctly.jpg"
+    },
+    {
+      "title": "C# Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/csharp",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/C-sharp-Succinctly-Updated-1.png"
+    },
+    {
+      "title": "CSS3 Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/css3",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/CSS3-Succinctly.jpg"
+    },
+    {
+      "title": "LINQ Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/linq",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Linq-Succinctly.jpg"
+    },
+    {
+      "title": "Accounting Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/accounting",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Accounting-Succinctly.jpg"
+    },
+    {
+      "title": "Apache Solr Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/apachesolr",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Apache-Succinctly.jpg"
+    },
+    {
+      "title": "ASP.NET MVC Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/aspnet_mvc_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/ASP-NET-MVC-Succinctly-Updated-1.png"
+    },
+    {
+      "title": "More Windows 8.1 Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/morewindows8.1",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/More-Windows-8.1-Succinctly.jpg"
+    },
+    {
+      "title": "OWIN Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/owin",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Owin-Succinctly.jpg"
+    },
+    {
+      "title": "Windows 8.1 Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/windows8.1",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Windows-8.1-Succinctly.jpg"
+    },
+    {
+      "title": "Statistics Using Excel Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/statistics",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Statistics-Using-Excel-Succinctly.jpg"
+    },
+    {
+      "title": "ReSharper Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/resharper",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Resharper-Succinctly.jpg"
+    },
+    {
+      "title": "Cassandra Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/cassandra",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Cassandra-Succinctly.jpg"
+    },
+    {
+      "title": "Directory Enabled Applications Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/directoryenabled",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Directory-Enabled-Applications-Succinctly.jpg"
+    },
+    {
+      "title": "PowerPivot Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/powerpivot",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Powerpivot-Succinctly.jpg"
+    },
+    {
+      "title": "CUDA Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/cuda",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Cuda-Succinctly.jpg"
+    },
+    {
+      "title": "Microsoft Unity Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/microsoftunity",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/MS-Unity-Succinctly.jpg"
+    },
+    {
+      "title": "Twitter Bootstrap 3 Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/twitterbootstrap3",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Twitter-Bootstrap3-Succinctly.jpg"
+    },
+    {
+      "title": "Linux Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/linux",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Linux-Succinctly.jpg"
+    },
+    {
+      "title": "BizTalk Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/biztalk",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Biztalk-Succinctly.jpg"
+    },
+    {
+      "title": "Windows Azure Websites Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/windowsazurewebsite",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Windows-Azure-Websites-Succinctly.jpg"
+    },
+    {
+      "title": "SSIS Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/ssis",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Ssis-Succinctly.jpg"
+    },
+    {
+      "title": "Machine Learning Using C# Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/machine",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Machine-Learning-Succinctly.jpg"
+    },
+    {
+      "title": "SharePoint 2013 App Model Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/sharepoint",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Sharepoint-2013-Succinctly.jpg"
+    },
+    {
+      "title": "ServiceStack Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/servicestack",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Service-Stack-Succinctly.jpg"
+    },
+    {
+      "title": "Prism 4 Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/prism",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Prism4-Succinctly.jpg"
+    },
+    {
+      "title": "Regular Expressions Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/regularexpressions",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Regular-Expressions-Succinctly.jpg"
+    },
+    {
+      "title": "Imperative to Functional Programming Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/imperative",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Impertative-To-Functional-programming-Succinctly.jpg"
+    },
+    {
+      "title": "Localization for .NET Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/localization",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Localization-For-NET-Succinctly.jpg"
+    },
+    {
+      "title": "MATLAB Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/matlab",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Matlab-Succinctly.jpg"
+    },
+    {
+      "title": "NHibernate Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/nhibernate",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/NHybernate-Succinctly.jpg"
+    },
+    {
+      "title": "PowerShell Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/powershell",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Powershell-Succinctly.jpg"
+    },
+    {
+      "title": "Android Programming Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/android",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Android-Programming-Succinctly.jpg"
+    },
+    {
+      "title": "Entity Framework Code First Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/entityframework",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Entity-Framework-Code-First-Succinctly.jpg"
+    },
+    {
+      "title": "R Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/rsuccinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/R-Succinctly.jpg"
+    },
+    {
+      "title": "Neural Networks Using C# Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/neuralnetworks",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Neural-Networks-Using-CSharp-Succinctly.jpg"
+    },
+    {
+      "title": "HDInsight Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/hdinsight",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Hdinsight-Succinctly.jpg"
+    },
+    {
+      "title": "LightSwitch Mobile Business Apps Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/lightswitchmobile",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Lightswitch-Mobile-Business-Apps-Succinctly.jpg"
+    },
+    {
+      "title": "BI Solutions Using SSAS Tabular Model Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/bisolutions",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/BI-Solutions-Using-SAAS-Succinctly.jpg"
+    },
+    {
+      "title": "Twitter Bootstrap Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/twitterbootstrap",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Twitter-Bootstrap-Succinctly.jpg"
+    },
+    {
+      "title": "AngularJS Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/angularjs",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Angularjs-Succinctly.jpg"
+    },
+    {
+      "title": "Visual Studio 2013 Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/visualstudio2013",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Visual-Studio-2013-Succinctly.jpg"
+    },
+    {
+      "title": "Windows Phone 8 Development Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/windowsphone8",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Windows-Phone8-Development-Succinctly.jpg"
+    },
+    {
+      "title": "Direct3D Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/direct3d",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Direct3D-Succinctly.jpg"
+    },
+    {
+      "title": "SQL Server Analysis Services Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/sqlserver",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/SQL-Server-Analysis-Services-Succinctly.jpg"
+    },
+    {
+      "title": "Assembly Language Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/assemblylanguage",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Assembly-Language-Succinctly.jpg"
+    },
+    {
+      "title": "ASP.NET Web API Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/aspnet_web_api_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/ASP-NET-Web-API-Succinctly.jpg"
+    },
+    {
+      "title": "Visual Studio Add-Ins Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/visualstudio",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Visual-Studio-Addins-Succinctly.jpg"
+    },
+    {
+      "title": "Postgres Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/postgres",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Postgres-Succinctly.jpg"
+    },
+    {
+      "title": "Direct2D Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/direct2d",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Direct2D-Succinctly.jpg"
+    },
+    {
+      "title": "Windows Azure SQL Reporting Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/windowsazure",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Windows-Azure-SQL-Reporting-Succinctly.jpg"
+    },
+    {
+      "title": "Unit Testing Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/unittesting",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Unit-Testing-Succinctly.jpg"
+    },
+    {
+      "title": "TypeScript Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/typescript",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/TypeScript-Succinctly.jpg"
+    },
+    {
+      "title": "WPF Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/wpf_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/WPF-Succinctly.jpg"
+    },
+    {
+      "title": "iOS Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/ios",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/iOS-Succintly.jpg"
+    },
+    {
+      "title": "Windows Store Apps Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/windowsstoreapps",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Windows-Store-Apps-Succinctly.jpg"
+    },
+    {
+      "title": "Data Structures Succinctly Part 2",
+      "url": "https://www.syncfusion.com/ebooks/datastructurespart2",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Data-Structures-Part-2.jpg"
+    },
+    {
+      "title": "GIS Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/gis",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Gis-Succinctly.jpg"
+    },
+    {
+      "title": "Data Structures Succinctly Part 1",
+      "url": "https://www.syncfusion.com/ebooks/datastructurespart1",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Data-Structures-Part-1.jpg"
+    },
+    {
+      "title": "Objective-C Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/objective-c",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Objectivec-Succinctly.jpg"
+    },
+    {
+      "title": "F# Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/fsharp",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Fsharp-Succinctly.jpg"
+    },
+    {
+      "title": "Knockout.js Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/knockoutjs",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Knockoutjs-Succinctly.jpg"
+    },
+    {
+      "title": "C++ Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/cplusplus",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Cplusplus-Succinctly.jpg"
+    },
+    {
+      "title": "ASP.NET MVC 4 Mobile Websites Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/aspnetmvc4",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/ASP-NET-MVC4-Mobile-Succinctly.jpg"
+    },
+    {
+      "title": "LightSwitch Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/lightswitch",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Lightswitch-Succinctly.jpg"
+    },
+    {
+      "title": "JavaScript Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/javascript",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Javascript-Succinctly.jpg"
+    },
+    {
+      "title": "HTTP Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/http",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Http-Succinctly.jpg"
+    },
+    {
+      "title": "PDF Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/pdf",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Pdf-Succinctly.jpg"
+    },
+    {
+      "title": "Git Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/git",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Git-Succinctly.jpg"
+    },
+    {
+      "title": "jQuery Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/jquery",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Jquery-Succinctly.jpg"
+    }
+  ]
+}
