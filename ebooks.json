@@ -1,6 +1,21 @@
 {
   "ebooks": [
     {
+      "title": "Using .NET Core, Docker, and Kubernetes Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/using-netcore-docker-and-kubernetes-succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/using-netcore-docker-and-kubernetes-succinctly.png"
+    },
+    {
+      "title": "Getting the Most from LINQPad Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/getting-the-most-from-linqpad-succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/getting-the-most-from-linqpad-succinctly.png"
+    },
+    {
+      "title": "Elixir Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/elixir-succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/elixir-succinctly.png"
+    },
+    {
       "title": "Electron Succinctly",
       "url": "https://www.syncfusion.com/ebooks/electron-succinctly",
       "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/electron-succinctly.png"
