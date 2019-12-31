@@ -1,6 +1,51 @@
 {
   "ebooks": [
     {
+      "title": "SQL Server Metadata Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/sql-server-metadata-succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/sql-server-metadata-succinctly.png"
+    },
+    {
+      "title": "MSIX Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/msix-succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/msix-succinctly.png"
+    },
+    {
+      "title": "Business Process Flow Mapping Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/business-process-flow-mapping-succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/business-process-flow-mapping-succinctly.png"
+    },
+    {
+      "title": "React Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/react-succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/react-succinctly.png"
+    },
+    {
+      "title": "Visual Studio 2019 Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/visual-studio-2019-succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/visual-studio-2019-succinctly.png"
+    },
+    {
+      "title": "Neural Networks with JavaScript Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/neural-networks-with-javascript-succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/neural-networks-with-javascript-succinctly.png"
+    },
+    {
+      "title": "Hadoop for Windows Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/hadoop-for-windows-succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/hadoop-for-windows-succinctly.png"
+    },
+    {
+      "title": "Flutter Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/flutter-succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/flutter-succinctly.png"
+    },
+    {
+      "title": "Nuget In-House Succicntly",
+      "url": "https://www.syncfusion.com/ebooks/nuget-in-house-succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/nuget-in-house-succinctly.png"
+    },
+    {
       "title": "Using .NET Core, Docker, and Kubernetes Succinctly",
       "url": "https://www.syncfusion.com/ebooks/using-netcore-docker-and-kubernetes-succinctly",
       "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/using-netcore-docker-and-kubernetes-succinctly.png"
