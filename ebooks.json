@@ -1,6 +1,51 @@
 {
   "ebooks": [
     {
+      "title": "Azure Serverless Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/azure_serverless_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/azure_serverless_succinctly.png"
+    },
+    {
+      "title": "Real-Time ASP.NET Core 3 Apps with SignalR Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/real_time_asp_net_core_3_apps_with_signalr_succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/real_time_asp.net_core_3_apps_with_signalr_succinctly.png"
+    },
+    {
+      "title": "Vue.js Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/vuejs-succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Vue.JS_Succinctly.png"
+    },
+    {
+      "title": "Robotic Process Automation Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/robotic-process-automation-succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Robotic_Process_Automation_Succinctly.png"
+    },
+    {
+      "title": "Azure Cognitive Services Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/azure-cognitive-service-succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Azure_Congnitive_Service_Succinctly.png"
+    },
+    {
+      "title": "Blazor Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/blazor-succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/blazor-succinctly.png"
+    },
+    {
+      "title": "App Modernization on Azure Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/app-modernization-on-azure-succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/app-modernization-on-azure-succinctly.png"
+    },
+    {
+      "title": "Istio Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/istio-succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/istio-succinctly.png"
+    },
+    {
+      "title": "Ionic 4 Succinctly",
+      "url": "https://www.syncfusion.com/ebooks/ionic-4-succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Ionic-4-succinctly.png"
+    },
+    {
       "title": "SQL Server Metadata Succinctly",
       "url": "https://www.syncfusion.com/ebooks/sql-server-metadata-succinctly",
       "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/sql-server-metadata-succinctly.png"
