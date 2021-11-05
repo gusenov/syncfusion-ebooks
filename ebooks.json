@@ -1,6 +1,46 @@
 {
   "ebooks": [
     {
+      "title": "Xamarin Community Toolkit Succinctly",
+      "url": "https://www.syncfusion.com/succinctly-free-ebooks/xamarin-community-toolkit-succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/xamarin-community-toolkit-succinctly.png"
+    },
+    {
+      "title": "Flutter UI Succinctly",
+      "url": "https://www.syncfusion.com/succinctly-free-ebooks/flutter-ui-succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/flutter-ui-succinctly.png"
+    },
+    {
+      "title": "Custom Blazor Oqtane Modules Succinctly",
+      "url": "https://www.syncfusion.com/succinctly-free-ebooks/custom-blazor-oqtane-modules-succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/custom-blazor-oqtane-modules-succinctly.png"
+    },
+    {
+      "title": "Real-World Xamarin.Forms Succinctly",
+      "url": "https://www.syncfusion.com/succinctly-free-ebooks/real-world-xamarin-forms-succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/real-world-xamarin-forms-succinctly.png"
+    },
+    {
+      "title": "Ansible Succinctly",
+      "url": "https://www.syncfusion.com/succinctly-free-ebooks/ansible-succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/ansible-succinctly.png"
+    },
+    {
+      "title": "Uno Platform Succinctly",
+      "url": "https://www.syncfusion.com/succinctly-free-ebooks/uno-platform-succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/uno-platform-succinctly.png"
+    },
+    {
+      "title": "Deno Succinctly",
+      "url": "https://www.syncfusion.com/succinctly-free-ebooks/deno-succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Deno-Succinctly.png"
+    },
+    {
+      "title": "Azure Pipelines Succinctly",
+      "url": "https://www.syncfusion.com/succinctly-free-ebooks/azure-pipelines-succinctly",
+      "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Azure-Pipelines-Succinctly.png"
+    },
+    {
       "title": "Razor Components Succinctly",
       "url": "https://www.syncfusion.com/succinctly-free-ebooks/razor-components-succinctly",
       "img": "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Razor-Components-Succinctly.png"
